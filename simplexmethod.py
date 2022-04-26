@@ -5,6 +5,7 @@ from scipy.spatial import HalfspaceIntersection, ConvexHull
 import matplotlib.pyplot as plt
 from matplotlib.patches import Polygon
 
+#new
 def buildTableau():
         r_cost=[-10,-12,-12,0,0,0]
         n_cost = 0
