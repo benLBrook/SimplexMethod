@@ -1,7 +1,7 @@
 
 # Simplex Method
 
-A brief description of what this project does and who it's for
+AN implementation of the simplex method.
 
 
 ## Authors
